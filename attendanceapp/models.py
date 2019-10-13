@@ -8,4 +8,4 @@ class Dreamreal(models.Model):
    phonenumber = models.IntegerField()
 
    class Meta:
-      db_table = "dreamreal"
+      db_table = "dreamreal1"
